@@ -7,6 +7,7 @@ spring:
       server:
         git:
           uri: https://github.com/assisjrs/warmup/
+          basedir: backend/configserver/src/main/resources
 
           #uri: https://github.com/rafaelcam/delivery-configs
           #delivery-sample-config

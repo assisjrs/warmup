@@ -7,3 +7,7 @@ spring:
       server:
         git:
           uri: https://github.com/assisjrs/warmup/
+
+          #uri: https://github.com/rafaelcam/delivery-configs
+          #delivery-sample-config
+
